@@ -1,4 +1,5 @@
-List of three birds:
+List of four birds:
 *Magpie
 *Wren
 *Nuthatch
+*Duck
